@@ -1,0 +1,13 @@
+body{
+	font-size: 20px;
+}
+.text_content {
+	border: 3px black solid;
+	background-color: rgba(230,230,230,0.8);
+	padding: 20px;
+	border-radius: 20px;
+}
+
+.email_phone {
+	width: 100%;
+}
